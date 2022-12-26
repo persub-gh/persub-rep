@@ -10,6 +10,7 @@ nav {
 
 ul {
   background: darkorange;
+  columns: 2;
   list-style: none;
   margin: 0;
   padding-left: 0;
