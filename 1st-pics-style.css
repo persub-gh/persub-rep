@@ -1,0 +1,6 @@
+#myimages { white-space: nowrap; }
+#myimages img {
+display: block;
+float: left;
+margin: 20px;
+}
